@@ -1,8 +1,8 @@
 public class Sample
 {
-	public static void main(Strings args[])
+	public static void main(String[] args)
 	{
-		System.out.print("Mavunuri Mahesh");
+		System.out.println("Mavunuri Mahesh");
 	}
 }
 
